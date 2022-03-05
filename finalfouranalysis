@@ -1,0 +1,4 @@
+# MSAS: final four analysis 
+
+import requests
+content = get.requests('http://api.stats.com/v1/stats/lacrosse/nll/standings/?season=2019&expanded=true&accept=json&api_key=&sig=96ba514307ab4118b8de09d60426ee2731ae0b30007272f1591dc35b03fbbdde')
